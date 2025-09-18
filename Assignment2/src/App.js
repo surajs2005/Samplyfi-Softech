@@ -100,10 +100,7 @@ function App() {
     <div className="app-container">
       <div className="header">
         <Title level={1} className="title">
-          User Profiles (Advanced)
-        </Title>
-        <Title level={4} type="secondary">
-          Responsive design with Ant Design
+          User Profiles
         </Title>
       </div>
 
@@ -114,8 +111,8 @@ function App() {
             xs={24}    // Mobile: 1 column
             sm={12}    // Tablet: 2 columns
             md={8}     // Desktop: 3 columns
-            lg={6}     // Large screens: 4 columns
-            xl={4}     // Extra large: 6 columns
+            lg={8}     // Large screens: 3 columns
+            xl={8}     // Extra large: 3 columns
           >
             <UserCard
               user={user}
