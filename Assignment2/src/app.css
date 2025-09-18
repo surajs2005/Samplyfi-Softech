@@ -1,0 +1,160 @@
+/* App.css for Assignment 2 */
+
+.app-container {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  padding: 24px;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 32px;
+  color: white;
+}
+
+.title {
+  color: white !important;
+  margin-bottom: 8px !important;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
+
+.loading-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+}
+
+.loading-container p {
+  margin-top: 16px;
+  font-size: 18px;
+  color: white;
+}
+
+.error-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 24px;
+}
+
+.users-grid {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.user-card {
+  height: 100%;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+  overflow: hidden;
+}
+
+.user-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+}
+
+.card-cover {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  padding: 24px;
+  text-align: center;
+  color: white;
+}
+
+.user-avatar {
+  border: 4px solid white;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  margin-bottom: 16px;
+}
+
+.user-info {
+  color: white;
+}
+
+.user-name {
+  color: white !important;
+  margin-bottom: 4px !important;
+  font-weight: 600;
+}
+
+.username {
+  color: rgba(255, 255, 255, 0.8) !important;
+  font-size: 14px;
+}
+
+.user-details {
+  padding: 16px;
+}
+
+.detail-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 8px;
+  gap: 8px;
+}
+
+.detail-icon {
+  color: #1890ff;
+  margin-top: 2px;
+  flex-shrink: 0;
+}
+
+.liked-button {
+  background-color: #ff4d4f !important;
+  border-color: #ff4d4f !important;
+  color: white !important;
+}
+
+.liked-button:hover {
+  background-color: #ff7875 !important;
+  border-color: #ff7875 !important;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .app-container {
+    padding: 16px;
+  }
+  
+  .header {
+    margin-bottom: 24px;
+  }
+  
+  .title {
+    font-size: 24px !important;
+  }
+  
+  .card-cover {
+    padding: 16px;
+  }
+  
+  .user-avatar {
+    width: 80px !important;
+    height: 80px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .app-container {
+    padding: 12px;
+  }
+  
+  .title {
+    font-size: 20px !important;
+  }
+  
+  .card-cover {
+    padding: 12px;
+  }
+  
+  .user-avatar {
+    width: 60px !important;
+    height: 60px !important;
+  }
+}

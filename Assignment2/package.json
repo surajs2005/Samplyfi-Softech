@@ -1,0 +1,19 @@
+{
+  "name": "assignment2",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "parcel public/index.html --port 5174",
+    "build": "parcel build public/index.html",
+    "serve": "serve dist"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "antd": "^5.21.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "serve": "^14.2.5"
+  }
+}
