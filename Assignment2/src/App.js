@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Row, Col, Typography, Spin, Alert, message } from 'antd';
 import { LoadingOutlined } from '@ant-design/icons';
-import './App.css';
+import './app.css';
 import UserCard from './components/UserCard';
 import EditUserModal from './components/EditUserModal';
 
