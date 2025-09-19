@@ -1,4 +1,4 @@
-4988
+4984
 127C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\node_modules\@parcel\core\test\fixtures\config\subfolder\.parcelrc134026885471634666 0
 98C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\node_modules\weak-lru-cache\README.md134026885282279942 0
 118C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\node_modules\react\cjs\react-jsx-dev-runtime.profiling.js134026873227165716 0
@@ -6,7 +6,7 @@
 105C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\node_modules\caniuse-lite\data\regions\DO.js134026885936093371 0
 91C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\node_modules\@msgpackr-extract134026889532525972 1
 105C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\node_modules\@parcel\workers\src\cpuCount.js134026885501181651 0
-65C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\dist134026896863943820 1
+65C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\dist134026973549880664 1
 72C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\src\app.css134026868254871783 0
 89C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\node_modules\debug\README.md134026873782484875 0
 96C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\node_modules\react-refresh\babel.js134026885107921267 0
@@ -1747,7 +1747,6 @@
 112C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\node_modules\@parcel\watcher-win32-x64\package.json134026885107415693 0
 123C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\node_modules\@swc\helpers\_\_class_check_private_static_access134026888055911617 1
 101C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\node_modules\path-is-inside\package.json134026873755303246 0
-88C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\dist\public.fd8c0860.js.map134026892113716593 0
 110C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\node_modules\parcel\node_modules\chalk\index.d.ts134026885227645134 0
 84C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\node_modules\parcel\lib134026887929685089 1
 111C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\node_modules\electron-to-chromium\full-versions.js134026885199516711 0
@@ -2861,7 +2860,7 @@
 105C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\node_modules\caniuse-lite\data\regions\NF.js134026885993962146 0
 101C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\node_modules\ajv\dist\types\index.js.map134026873862196694 0
 105C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\node_modules\caniuse-lite\data\regions\NI.js134026885994212073 0
-84C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\dist\public.31b563d9.js134026896862151366 0
+84C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\dist\public.31b563d9.js134026972340593477 0
 119C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\node_modules\@parcel\core\test\ParcelConfigRequest.test.js134026885845949027 0
 105C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\node_modules\caniuse-lite\data\regions\NL.js134026885994212073 0
 98C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\node_modules\@parcel\watcher\src\unix134026888038019461 1
@@ -4980,10 +4979,7 @@
 88C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\node_modules\.bin\serve.cmd134026873865128273 0
 88C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\node_modules\.bin\serve.ps1134026873865925630 0
 105C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\node_modules\.bin\update-browserslist-db.ps1134026886064527902 0
-76C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\dist\index.html134026895796340131 0
-88C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\dist\public.31b563d9.js.map134026896863177529 0
-85C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\dist\public.c581df15.css134026892113093723 0
-89C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\dist\public.c581df15.css.map134026892113586361 0
-85C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\dist\public.d91c94e1.css134026896863761411 0
-89C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\dist\public.d91c94e1.css.map134026896863903491 0
-84C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\dist\public.fd8c0860.js134026892113093723 0
+76C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\dist\index.html134026972340593477 0
+88C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\dist\public.31b563d9.js.map134026972341154629 0
+85C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\dist\public.d91c94e1.css134026972340593477 0
+89C:\Users\suraj\OneDrive\Desktop\Samplyfi Softech\Assignment1\dist\public.d91c94e1.css.map134026972340693911 0
